@@ -11,7 +11,7 @@ function Quica(cax, cay ){
 		var img = this.img[this.sprite];
 		var x = this.x;
 		var y = this.y;
-		ctx.drawImage(img,, x, y);
+		ctx.drawImage(img, x, y);
 		ctx.save();
 		ctx.fillStyle = "#ffffff";
 		ctx.font = "12px sans-serif";
