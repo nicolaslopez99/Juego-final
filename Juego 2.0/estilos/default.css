@@ -37,7 +37,7 @@ button {
 	color:#555555;
 }
 
-#arriba, #abajo, #salto, #sentado, #calaca_1, #calaca_2 {
+#arriba, #abajo, #izquierda, #derecha, #arriba1, #abajo1, #izquierda1, #derecha1 {
 	display:none;
 }
 
